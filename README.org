@@ -1,0 +1,2 @@
+* Project Details
+Building a full-featured GraphQL server using DGS
